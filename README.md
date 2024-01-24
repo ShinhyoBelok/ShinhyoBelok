@@ -1,4 +1,6 @@
-[![MasterHead](![C4t0cHoTJ5Mb_1584_396](https://github.com/ShinhyoBelok/ShinhyoBelok/assets/114300121/bb79872e-2ee9-4c37-b289-a97b1d7af709))](https://github.com/ShinhyoBelok)
+![C4t0cHoTJ5Mb_1584_396](https://github.com/ShinhyoBelok/ShinhyoBelok/assets/114300121/5b75fead-d898-4313-9545-30c5d4eea9f0)
+
+
 <h1 align="center">Hi 👋, I'm Shinhyo</h1>
 <h3 align="center">Passionate about UX, Full-Stack developer from Dominican Republic.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
